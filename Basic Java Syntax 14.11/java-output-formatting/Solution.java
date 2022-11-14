@@ -11,6 +11,7 @@ public class Solution {
                 int x=sc.nextInt();
                 System.out.printf("%-15s",s1);
                 System.out.printf("%03d\n",x);
+                
             }
             System.out.println("================================");
 
